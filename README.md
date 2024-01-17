@@ -6,7 +6,7 @@
 > 需安装并开启 `sqlite` 扩展
 
 ``` bash
-composer require Niuf/laravel-scout-tntsearch
+composer require niuf/laravel-scout-tntsearch
 ```
 
 ### Laravel
