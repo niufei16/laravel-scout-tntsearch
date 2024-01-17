@@ -6,7 +6,7 @@
 > 需安装并开启 `sqlite` 扩展
 
 ``` bash
-composer require vanry/laravel-scout-tntsearch
+composer require Niuf/laravel-scout-tntsearch
 ```
 
 ### Laravel
@@ -20,7 +20,7 @@ php artisan vendor:publish --provider="Laravel\Scout\ScoutServiceProvider"
 * 如需修改 `tntsearch` 默认配置，发布 `tntsearch` 配置文件。
 
 ```bash
-php artisan vendor:publish --provider="Vanry\Scout\TNTSearchScoutServiceProvider"
+php artisan vendor:publish --provider="Niuf\Scout\TNTSearchScoutServiceProvider"
 ```
 
 ### Lumen
